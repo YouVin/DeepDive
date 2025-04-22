@@ -27,4 +27,4 @@ JS 딥다이브 공부하기
 - **4월 14일**: [Chapter 07 - 연산자](7장%20연산자/operator.md)
 - **4월 17일**: [Chapter 08 - 제어문](8장%20제어문/control_statement.md)
 - **4월 20일**: [Chapter 09 - 타입변환과 단축평가](9장%20타입변환과단축평가/js-type-coercion.md)
-- **4월 22일**: [Chapter 10 - 객체 리터럴](10장%20객체 리터럴/js_object_notes.md)
+- **4월 22일**: [Chapter 10 - 객체 리터럴](10장%20객체%20리터럴/js_object_notes.md)
